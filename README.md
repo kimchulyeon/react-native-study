@@ -1,5 +1,7 @@
 [Delivery icons created by dreamicons - Flaticon](https://www.flaticon.com/free-icons/delivery)
 
+feat : 제로초 인프런 강의
+
 # 첫 시작(setting)
 
 [공식문서](https://reactnative.dev/)
